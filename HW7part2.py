@@ -19,4 +19,4 @@ print(f'the number of good jumps is {good_jumps}')
 print(f'the highest jump is {highest}')
 print(f'the new world record is {highest} and the name of the winner is {winner}')
 avg: float = all_result / good_jumps
-print(f'the average of the good jumps is {avg:<2f}')
+print(f'the average of the good jumps is {avg}')
