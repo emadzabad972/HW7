@@ -1,6 +1,6 @@
 # start
 
-good_jumps: float = 0
+good_jumps: float = None
 highest: float = 0
 winner: str = None
 all_result = 0.0
